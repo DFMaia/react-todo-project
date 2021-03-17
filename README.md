@@ -1,6 +1,7 @@
 # Sobre esse projeto:
 > ### Se você está aqui para consultar React :point_down::
 > - Esse projeto é um projeto em React com o objetivo de estudo e consulta. 
+> - Criação de uma aplicação de uma `To do List`.
 
 > ### Se você está aqui para estudar :point_down::
 > É uma continuação sobre dois projetos anteriores:
